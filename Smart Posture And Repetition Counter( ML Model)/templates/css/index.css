@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: sans-serif;
+    height: 100vh;
+    background-image: url(../images/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image:url('https://www.google.com/search?q=images&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiswtfwpe_7AhXVWHwKHZ8dBiYQ_AUoAXoECAIQAw&biw=1536&bih=722&dpr=1.25#imgrc=QzWsPkGugVgu_M'); 
+
+}
+
